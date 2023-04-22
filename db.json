@@ -4,79 +4,157 @@
       "id": 1,
       "name": "Nutella",
       "photo": "https://images.dog.ceo/breeds/sheepdog-english/n02105641_1763.jpg",
-      "race": "Sheepdog English"
+      "race": "Sheepdog English",
+      "location": {
+        "coordinates": [
+          -12.7818687, 
+          -38.3692389 
+        ]
+      }
     },
     {
       "id": 2,
       "name": "Ozzy",
       "photo": "https://images.dog.ceo/breeds/rottweiler/n02106550_10555.jpg",
-      "race": "Rottweiler"
+      "race": "Rottweiler",
+      "location": {
+        "coordinates": [
+          -12.7817687, 
+          -38.3692389 
+        ]
+      }
     },
     {
       "id": 3,
       "name": "Fred",
       "photo": "https://images.dog.ceo/breeds/terrier-kerryblue/n02093859_1697.jpg",
-      "race": "Terrier Kerryblue"
+      "race": "Terrier Kerryblue",
+      "location": {
+        "coordinates": [
+          -12.7815687, 
+          -38.3693389 
+        ]
+      }
     },
     {
       "id": 4,
       "name": "Boris",
       "photo": "https://images.dog.ceo/breeds/collie-border/n02106166_7105.jpg",
-      "race": "Collie Border"
+      "race": "Collie Border",
+      "location": {
+        "coordinates": [
+          -12.7815687, 
+          -38.3692689 
+        ]
+      }
     },
     {
       "id": 5,
       "name": "Buddy",
       "photo": "https://images.dog.ceo/breeds/pyrenees/n02111500_8382.jpg",
-      "race": "Pyrenees"
+      "race": "Pyrenees",
+      "location": {
+        "coordinates": [
+          -12.7814687, 
+          -38.3699389 
+        ]
+      }
     },
     {
       "id": 6,
       "name": "Theo",
       "photo": "https://images.dog.ceo/breeds/spitz-japanese/tofu.jpg",
-      "race": "Spitz Japanese"
+      "race": "Spitz Japanese",
+      "location": {
+        "coordinates": [
+          -12.7816687, 
+          -38.3693389 
+        ]
+      }
     },
     {
       "id": 7,
       "name": "Bob",
       "photo": "https://images.dog.ceo/breeds/mexicanhairless/n02113978_3866.jpg",
-      "race": "Mexicanhairless"
+      "race": "Mexicanhairless",
+      "location": {
+        "coordinates": [
+          -12.7818587, 
+          -38.3692489 
+        ]
+      }
     },
     {
       "id": 8,
       "name": "Sasuke Uchiha",
       "photo": "https://images.dog.ceo/breeds/malinois/n02105162_5802.jpg",
-      "race": "Malinois"
+      "race": "Malinois",
+      "location": {
+        "coordinates": [
+          -12.7818887, 
+          -38.3692189 
+        ]
+      }
     },
     {
       "id": 9,
       "name": "Simba",
       "photo": "https://images.dog.ceo/breeds/mastiff-tibetan/n02108551_9913.jpg",
-      "race": "Mastiff Tibetan"
+      "race": "Mastiff Tibetan",
+      "location": {
+        "coordinates": [
+          -12.7811687, 
+          -38.3699389 
+        ]
+      }
     },
     {
       "id": 10,
       "name": "Scooby",
       "photo": "https://images.dog.ceo/breeds/sheepdog-shetland/n02105855_10608.jpg",
-      "race": "Sheepdog Shetland"
+      "race": "Sheepdog Shetland",
+      "location": {
+        "coordinates": [
+          -12.7818687, 
+          -38.3692789 
+        ]
+      }
     },
     {
       "id": 11,
       "name": "Thor",
       "photo": "https://images.dog.ceo/breeds/terrier-tibetan/n02097474_5820.jpg",
-      "race": "Terrier Tibetan"
+      "race": "Terrier Tibetan",
+      "location": {
+        "coordinates": [
+          -12.7813687, 
+          -38.3694389 
+        ]
+      }
     },
     {
       "id": 12,
       "name": "Pingo",
       "photo": "https://images.dog.ceo/breeds/malamute/n02110063_1880.jpg",
-      "race": "Malamute"
+      "race": "Malamute",
+      "location": {
+        "coordinates": [
+          -12.7813987, 
+          -38.3695689 
+        ]
+      }
     },
     {
       "id": 13,
       "name": "Zeca",
       "photo": "https://images.dog.ceo/breeds/terrier-dandie/n02096437_4276.jpg",
-      "race": "Terrier Dandie"
+      "race": "Terrier Dandie",
+      "location": {
+        "coordinates": [
+          -12.7816887, 
+          -38.3693289 
+        ]
+      }
     }
   ]
 }
