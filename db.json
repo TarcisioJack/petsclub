@@ -7,9 +7,11 @@
       "race": "Sheepdog English",
       "location": {
         "coordinates": [
-          -12.7818687, 
-          -38.3692389 
-        ]
+          -12.7818687,
+          -38.3692389
+        ],
+        "_id": 1,
+        "type": "Point"
       }
     },
     {
@@ -19,9 +21,11 @@
       "race": "Rottweiler",
       "location": {
         "coordinates": [
-          -12.7817687, 
-          -38.3692389 
-        ]
+          -12.7817687,
+          -38.3692389
+        ],
+        "_id": 2,
+        "type": "Point"
       }
     },
     {
@@ -31,9 +35,11 @@
       "race": "Terrier Kerryblue",
       "location": {
         "coordinates": [
-          -12.7815687, 
-          -38.3693389 
-        ]
+          -12.7815687,
+          -38.3693389
+        ],
+        "_id": 3,
+        "type": "Point"
       }
     },
     {
@@ -43,9 +49,11 @@
       "race": "Collie Border",
       "location": {
         "coordinates": [
-          -12.7815687, 
-          -38.3692689 
-        ]
+          -12.7815687,
+          -38.3692689
+        ],
+        "_id": 4,
+        "type": "Point"
       }
     },
     {
@@ -55,9 +63,11 @@
       "race": "Pyrenees",
       "location": {
         "coordinates": [
-          -12.7814687, 
-          -38.3699389 
-        ]
+          -12.7814687,
+          -38.3699389
+        ],
+        "_id": 5,
+        "type": "Point"
       }
     },
     {
@@ -67,9 +77,11 @@
       "race": "Spitz Japanese",
       "location": {
         "coordinates": [
-          -12.7816687, 
-          -38.3693389 
-        ]
+          -12.7816687,
+          -38.3693389
+        ],
+        "_id": 7,
+        "type": "Point"
       }
     },
     {
@@ -79,9 +91,11 @@
       "race": "Mexicanhairless",
       "location": {
         "coordinates": [
-          -12.7818587, 
-          -38.3692489 
-        ]
+          -12.7818587,
+          -38.3692489
+        ],
+        "_id": 7,
+        "type": "Point"
       }
     },
     {
@@ -91,9 +105,11 @@
       "race": "Malinois",
       "location": {
         "coordinates": [
-          -12.7818887, 
-          -38.3692189 
-        ]
+          -12.7818887,
+          -38.3692189
+        ],
+        "_id": 8,
+        "type": "Point"
       }
     },
     {
@@ -103,9 +119,11 @@
       "race": "Mastiff Tibetan",
       "location": {
         "coordinates": [
-          -12.7811687, 
-          -38.3699389 
-        ]
+          -12.7811687,
+          -38.3699389
+        ],
+        "_id": 9,
+        "type": "Point"
       }
     },
     {
@@ -115,9 +133,11 @@
       "race": "Sheepdog Shetland",
       "location": {
         "coordinates": [
-          -12.7818687, 
-          -38.3692789 
-        ]
+          -12.7818687,
+          -38.3692789
+        ],
+        "_id": 10,
+        "type": "Point"
       }
     },
     {
@@ -127,9 +147,11 @@
       "race": "Terrier Tibetan",
       "location": {
         "coordinates": [
-          -12.7813687, 
-          -38.3694389 
-        ]
+          -12.7813687,
+          -38.3694389
+        ],
+        "_id": 11,
+        "type": "Point"
       }
     },
     {
@@ -139,9 +161,11 @@
       "race": "Malamute",
       "location": {
         "coordinates": [
-          -12.7813987, 
-          -38.3695689 
-        ]
+          -12.7813987,
+          -38.3695689
+        ],
+        "_id": 12,
+        "type": "Point"
       }
     },
     {
@@ -151,9 +175,11 @@
       "race": "Terrier Dandie",
       "location": {
         "coordinates": [
-          -12.7816887, 
-          -38.3693289 
-        ]
+          -12.7816887,
+          -38.3693289
+        ],
+        "_id": 13,
+        "type": "Point"
       }
     }
   ]
