@@ -4,11 +4,13 @@
       "id": 1,
       "name": "Nutella",
       "photo": "https://images.dog.ceo/breeds/sheepdog-english/n02105641_1763.jpg",
+      "category": "Cachorro",
+      "genus": "Macho",
       "race": "Sheepdog English",
       "location": {
         "coordinates": [
-          -12.7818687,
-          -38.3692389
+          12.7819484,
+          -38.3692566
         ],
         "_id": 1,
         "type": "Point"
@@ -18,11 +20,13 @@
       "id": 2,
       "name": "Ozzy",
       "photo": "https://images.dog.ceo/breeds/rottweiler/n02106550_10555.jpg",
+      "category": "Cachorro",
+      "genus": "Macho",
       "race": "Rottweiler",
       "location": {
         "coordinates": [
-          -12.7817687,
-          -38.3692389
+          12.7819484,
+          -38.3692566
         ],
         "_id": 2,
         "type": "Point"
@@ -32,11 +36,13 @@
       "id": 3,
       "name": "Fred",
       "photo": "https://images.dog.ceo/breeds/terrier-kerryblue/n02093859_1697.jpg",
+      "category": "Cachorro",
+      "genus": "Macho",
       "race": "Terrier Kerryblue",
       "location": {
         "coordinates": [
-          -12.7815687,
-          -38.3693389
+          -12.7816685,
+          -38.3692995
         ],
         "_id": 3,
         "type": "Point"
@@ -44,13 +50,15 @@
     },
     {
       "id": 4,
-      "name": "Boris",
+      "name": "Lessi",
       "photo": "https://images.dog.ceo/breeds/collie-border/n02106166_7105.jpg",
+      "category": "Cachorro",
+      "genus": "Fêmea",
       "race": "Collie Border",
       "location": {
         "coordinates": [
-          -12.7815687,
-          -38.3692689
+          -12.7814671,
+          -38.3694041
         ],
         "_id": 4,
         "type": "Point"
@@ -60,11 +68,13 @@
       "id": 5,
       "name": "Buddy",
       "photo": "https://images.dog.ceo/breeds/pyrenees/n02111500_8382.jpg",
+      "category": "Cachorro",
+      "genus": "Macho",
       "race": "Pyrenees",
       "location": {
         "coordinates": [
-          -12.7814687,
-          -38.3699389
+          -12.7814671,
+          -38.3694041
         ],
         "_id": 5,
         "type": "Point"
@@ -72,13 +82,15 @@
     },
     {
       "id": 6,
-      "name": "Theo",
+      "name": "Chulinha",
       "photo": "https://images.dog.ceo/breeds/spitz-japanese/tofu.jpg",
+      "category": "Cachorro",
+      "genus": "Fêmea",
       "race": "Spitz Japanese",
       "location": {
         "coordinates": [
-          -12.7816687,
-          -38.3693389
+          -12.7814671,
+          -38.3694041
         ],
         "_id": 7,
         "type": "Point"
@@ -88,11 +100,13 @@
       "id": 7,
       "name": "Bob",
       "photo": "https://images.dog.ceo/breeds/mexicanhairless/n02113978_3866.jpg",
+      "category": "Cachorro",
+      "genus": "Macho",
       "race": "Mexicanhairless",
       "location": {
         "coordinates": [
-          -12.7818587,
-          -38.3692489
+          -12.7827867,
+          -38.3717859
         ],
         "_id": 7,
         "type": "Point"
@@ -102,11 +116,13 @@
       "id": 8,
       "name": "Bred",
       "photo": "https://images.dog.ceo/breeds/malinois/n02105162_5802.jpg",
+      "category": "Cachorro",
+      "genus": "Macho",
       "race": "Malinois",
       "location": {
         "coordinates": [
-          -12.7818887,
-          -38.3692189
+          -12.7827867,
+          -38.3717859
         ],
         "_id": 8,
         "type": "Point"
@@ -116,11 +132,13 @@
       "id": 9,
       "name": "Simba",
       "photo": "https://images.dog.ceo/breeds/mastiff-tibetan/n02108551_9913.jpg",
+      "category": "Cachorro",
+      "genus": "Macho",
       "race": "Mastiff Tibetan",
       "location": {
         "coordinates": [
-          -12.7811687,
-          -38.3699389
+          -12.7821485,
+          -38.3717698
         ],
         "_id": 9,
         "type": "Point"
@@ -128,13 +146,15 @@
     },
     {
       "id": 10,
-      "name": "Scooby",
+      "name": "Scooth",
       "photo": "https://images.dog.ceo/breeds/sheepdog-shetland/n02105855_10608.jpg",
+      "category": "Cachorro",
+      "genus": "Fêmea",
       "race": "Sheepdog Shetland",
       "location": {
         "coordinates": [
-          -12.7818687,
-          -38.3692789
+          -12.7809766,
+          -38.3712012
         ],
         "_id": 10,
         "type": "Point"
@@ -144,11 +164,13 @@
       "id": 11,
       "name": "Thor",
       "photo": "https://images.dog.ceo/breeds/terrier-tibetan/n02097474_5820.jpg",
+      "category": "Cachorro",
+      "genus": "Macho",
       "race": "Terrier Tibetan",
       "location": {
         "coordinates": [
-          -12.7813687,
-          -38.3694389
+          -12.7798205,
+          -38.371507
         ],
         "_id": 11,
         "type": "Point"
@@ -158,11 +180,13 @@
       "id": 12,
       "name": "Pingo",
       "photo": "https://images.dog.ceo/breeds/malamute/n02110063_1880.jpg",
+      "category": "Cachorro",
+      "genus": "Macho",
       "race": "Malamute",
       "location": {
         "coordinates": [
-          -12.7813987,
-          -38.3695689
+          -12.7798048,
+          -38.3717269
         ],
         "_id": 12,
         "type": "Point"
@@ -170,13 +194,15 @@
     },
     {
       "id": 13,
-      "name": "Zeca",
+      "name": "Scooby",
       "photo": "https://images.dog.ceo/breeds/terrier-dandie/n02096437_4276.jpg",
+      "category": "Cachorro",
+      "genus": "Macho",
       "race": "Terrier Dandie",
       "location": {
         "coordinates": [
-          -12.7816887,
-          -38.3693289
+          -12.7810853,
+          -38.3696548
         ],
         "_id": 13,
         "type": "Point"
