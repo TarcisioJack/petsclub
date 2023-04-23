@@ -9,8 +9,8 @@
       "race": "Sheepdog English",
       "location": {
         "coordinates": [
-          -12.7819484,
-          -38.3692566
+          -12.77922,
+          -38.3744327
         ],
         "_id": 1,
         "type": "Point"
@@ -73,8 +73,8 @@
       "race": "Pyrenees",
       "location": {
         "coordinates": [
-          -12.7814671,
-          -38.3694041
+          -12.780188,
+          -38.371949
         ],
         "_id": 5,
         "type": "Point"
@@ -89,8 +89,8 @@
       "race": "Spitz Japanese",
       "location": {
         "coordinates": [
-          -12.7814671,
-          -38.3694041
+          -12.779958,
+          -38.371219
         ],
         "_id": 7,
         "type": "Point"
@@ -121,8 +121,8 @@
       "race": "Malinois",
       "location": {
         "coordinates": [
-          -12.7827867,
-          -38.3717859
+          -12.784305,
+          -38.370399
         ],
         "_id": 8,
         "type": "Point"
