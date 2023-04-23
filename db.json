@@ -2,7 +2,8 @@
   "pets": [
     {
       "id": 1,
-      "name": "Nutella",
+      "nameGuardian": "/",
+      "namePet": "Nutella",
       "photo": "https://images.dog.ceo/breeds/sheepdog-english/n02105641_1763.jpg",
       "category": "Cachorro",
       "genus": "Macho",
@@ -18,7 +19,8 @@
     },
     {
       "id": 2,
-      "name": "Ozzy",
+      "nameGuardian": "/",
+      "namePet": "Ozzy",
       "photo": "https://images.dog.ceo/breeds/rottweiler/n02106550_10555.jpg",
       "category": "Cachorro",
       "genus": "Macho",
@@ -34,7 +36,8 @@
     },
     {
       "id": 3,
-      "name": "Fred",
+      "nameGuardian": "/",
+      "namePet": "Fred",
       "photo": "https://images.dog.ceo/breeds/terrier-kerryblue/n02093859_1697.jpg",
       "category": "Cachorro",
       "genus": "Macho",
@@ -50,7 +53,8 @@
     },
     {
       "id": 4,
-      "name": "Lessi",
+      "nameGuardian": "/",
+      "namePet": "Lessi",
       "photo": "https://images.dog.ceo/breeds/collie-border/n02106166_7105.jpg",
       "category": "Cachorro",
       "genus": "Fêmea",
@@ -66,7 +70,8 @@
     },
     {
       "id": 5,
-      "name": "Buddy",
+      "nameGuardian": "/",
+      "namePet": "Buddy",
       "photo": "https://images.dog.ceo/breeds/pyrenees/n02111500_8382.jpg",
       "category": "Cachorro",
       "genus": "Macho",
@@ -82,7 +87,8 @@
     },
     {
       "id": 6,
-      "name": "Chulinha",
+      "nameGuardian": "/",
+      "namePet": "Chulinha",
       "photo": "https://images.dog.ceo/breeds/spitz-japanese/tofu.jpg",
       "category": "Cachorro",
       "genus": "Fêmea",
@@ -98,7 +104,8 @@
     },
     {
       "id": 7,
-      "name": "Bob",
+      "nameGuardian": "/",
+      "namePet": "Bob",
       "photo": "https://images.dog.ceo/breeds/mexicanhairless/n02113978_3866.jpg",
       "category": "Cachorro",
       "genus": "Macho",
@@ -114,7 +121,8 @@
     },
     {
       "id": 8,
-      "name": "Bred",
+      "nameGuardian": "/",
+      "namePet": "Bred",
       "photo": "https://images.dog.ceo/breeds/malinois/n02105162_5802.jpg",
       "category": "Cachorro",
       "genus": "Macho",
@@ -130,7 +138,8 @@
     },
     {
       "id": 9,
-      "name": "Simba",
+      "nameGuardian": "/",
+      "namePet": "Simba",
       "photo": "https://images.dog.ceo/breeds/mastiff-tibetan/n02108551_9913.jpg",
       "category": "Cachorro",
       "genus": "Macho",
@@ -146,7 +155,8 @@
     },
     {
       "id": 10,
-      "name": "Scooth",
+      "nameGuardian": "/",
+      "namePet": "Scooth",
       "photo": "https://images.dog.ceo/breeds/sheepdog-shetland/n02105855_10608.jpg",
       "category": "Cachorro",
       "genus": "Fêmea",
@@ -162,7 +172,8 @@
     },
     {
       "id": 11,
-      "name": "Thor",
+      "nameGuardian": "/",
+      "namePet": "Thor",
       "photo": "https://images.dog.ceo/breeds/terrier-tibetan/n02097474_5820.jpg",
       "category": "Cachorro",
       "genus": "Macho",
@@ -178,7 +189,8 @@
     },
     {
       "id": 12,
-      "name": "Pingo",
+      "nameGuardian": "/",
+      "namePet": "Pingo",
       "photo": "https://images.dog.ceo/breeds/malamute/n02110063_1880.jpg",
       "category": "Cachorro",
       "genus": "Macho",
@@ -194,7 +206,8 @@
     },
     {
       "id": 13,
-      "name": "Scooby",
+      "nameGuardian": "/",
+      "namePet": "Scooby",
       "photo": "https://images.dog.ceo/breeds/terrier-dandie/n02096437_4276.jpg",
       "category": "Cachorro",
       "genus": "Macho",
