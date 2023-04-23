@@ -2,12 +2,13 @@
   "pets": [
     {
       "id": 1,
-      "nameGuardian": "/",
+      "nameGuardian": "Beto",
+      "twitter": "BetoMacedo20",
       "namePet": "Nutella",
       "photo": "https://images.dog.ceo/breeds/sheepdog-english/n02105641_1763.jpg",
-      "category": "Cachorro",
-      "genus": "Macho",
       "race": "Sheepdog English",
+      "genus": "Macho",
+      "category": "Cachorro",
       "location": {
         "coordinates": [
           -12.77922,
@@ -19,12 +20,13 @@
     },
     {
       "id": 2,
-      "nameGuardian": "/",
+      "nameGuardian": "Thayna",
+      "twitter": "thay_czerski",
       "namePet": "Ozzy",
       "photo": "https://images.dog.ceo/breeds/rottweiler/n02106550_10555.jpg",
-      "category": "Cachorro",
-      "genus": "Macho",
       "race": "Rottweiler",
+      "genus": "Macho",
+      "category": "Cachorro",
       "location": {
         "coordinates": [
           -12.7819484,
@@ -36,12 +38,13 @@
     },
     {
       "id": 3,
-      "nameGuardian": "/",
+      "nameGuardian": "Suzana Lima",
+      "twitter": "SulittaSlima",
       "namePet": "Fred",
       "photo": "https://images.dog.ceo/breeds/terrier-kerryblue/n02093859_1697.jpg",
-      "category": "Cachorro",
-      "genus": "Macho",
       "race": "Terrier Kerryblue",
+      "genus": "Macho",
+      "category": "Cachorro",
       "location": {
         "coordinates": [
           -12.7816685,
@@ -53,12 +56,13 @@
     },
     {
       "id": 4,
-      "nameGuardian": "/",
+      "nameGuardian": "Isa",
+      "twitter": "isahelenak",
       "namePet": "Lessi",
       "photo": "https://images.dog.ceo/breeds/collie-border/n02106166_7105.jpg",
-      "category": "Cachorro",
-      "genus": "Fêmea",
       "race": "Collie Border",
+      "genus": "Fêmea",
+      "category": "Cachorro",
       "location": {
         "coordinates": [
           -12.7814671,
@@ -70,12 +74,13 @@
     },
     {
       "id": 5,
-      "nameGuardian": "/",
+      "nameGuardian": "Marco",
+      "twitter": "marcoalscap",
       "namePet": "Buddy",
       "photo": "https://images.dog.ceo/breeds/pyrenees/n02111500_8382.jpg",
-      "category": "Cachorro",
-      "genus": "Macho",
       "race": "Pyrenees",
+      "genus": "Macho",
+      "category": "Cachorro",
       "location": {
         "coordinates": [
           -12.780188,
@@ -87,12 +92,13 @@
     },
     {
       "id": 6,
-      "nameGuardian": "/",
+      "nameGuardian": "Soraia",
+      "twitter": "Soraiaprotetora",
       "namePet": "Chulinha",
       "photo": "https://images.dog.ceo/breeds/spitz-japanese/tofu.jpg",
-      "category": "Cachorro",
-      "genus": "Fêmea",
       "race": "Spitz Japanese",
+      "genus": "Fêmea",
+      "category": "Cachorro",
       "location": {
         "coordinates": [
           -12.779958,
@@ -104,12 +110,13 @@
     },
     {
       "id": 7,
-      "nameGuardian": "/",
+      "nameGuardian": "Elton Bertoja",
+      "twitter": "alienbassist",
       "namePet": "Bob",
       "photo": "https://images.dog.ceo/breeds/mexicanhairless/n02113978_3866.jpg",
-      "category": "Cachorro",
-      "genus": "Macho",
       "race": "Mexicanhairless",
+      "genus": "Macho",
+      "category": "Cachorro",
       "location": {
         "coordinates": [
           -12.7827867,
@@ -121,12 +128,13 @@
     },
     {
       "id": 8,
-      "nameGuardian": "/",
+      "nameGuardian": "Larissa Halu",
+      "twitter": "HaluLarissa",
       "namePet": "Bred",
       "photo": "https://images.dog.ceo/breeds/malinois/n02105162_5802.jpg",
-      "category": "Cachorro",
-      "genus": "Macho",
       "race": "Malinois",
+      "genus": "Macho",
+      "category": "Cachorro",
       "location": {
         "coordinates": [
           -12.784305,
@@ -138,12 +146,13 @@
     },
     {
       "id": 9,
-      "nameGuardian": "/",
+      "nameGuardian": "José C.",
+      "twitter": "jctrindadef",
       "namePet": "Simba",
       "photo": "https://images.dog.ceo/breeds/mastiff-tibetan/n02108551_9913.jpg",
-      "category": "Cachorro",
-      "genus": "Macho",
       "race": "Mastiff Tibetan",
+      "genus": "Macho",
+      "category": "Cachorro",
       "location": {
         "coordinates": [
           -12.7821485,
@@ -155,12 +164,13 @@
     },
     {
       "id": 10,
-      "nameGuardian": "/",
+      "nameGuardian": "João Reis",
+      "twitter": "sparksubmit",
       "namePet": "Scooth",
       "photo": "https://images.dog.ceo/breeds/sheepdog-shetland/n02105855_10608.jpg",
-      "category": "Cachorro",
-      "genus": "Fêmea",
       "race": "Sheepdog Shetland",
+      "genus": "Fêmea",
+      "category": "Cachorro",
       "location": {
         "coordinates": [
           -12.7809766,
@@ -172,12 +182,13 @@
     },
     {
       "id": 11,
-      "nameGuardian": "/",
+      "nameGuardian": "Nachata",
+      "twitter": "NahMendonca",
       "namePet": "Thor",
       "photo": "https://images.dog.ceo/breeds/terrier-tibetan/n02097474_5820.jpg",
-      "category": "Cachorro",
-      "genus": "Macho",
       "race": "Terrier Tibetan",
+      "genus": "Macho",
+      "category": "Cachorro",
       "location": {
         "coordinates": [
           -12.7798205,
@@ -189,12 +200,13 @@
     },
     {
       "id": 12,
-      "nameGuardian": "/",
+      "nameGuardian": "Paulo Vagner",
+      "twitter": "ppaulovagner",
       "namePet": "Pingo",
       "photo": "https://images.dog.ceo/breeds/malamute/n02110063_1880.jpg",
-      "category": "Cachorro",
-      "genus": "Macho",
       "race": "Malamute",
+      "genus": "Macho",
+      "category": "Cachorro",
       "location": {
         "coordinates": [
           -12.7798048,
@@ -206,12 +218,13 @@
     },
     {
       "id": 13,
-      "nameGuardian": "/",
+      "nameGuardian": "Henrique Cardoso",
+      "twitter": "KikeCardoso",
       "namePet": "Scooby",
       "photo": "https://images.dog.ceo/breeds/terrier-dandie/n02096437_4276.jpg",
-      "category": "Cachorro",
-      "genus": "Macho",
       "race": "Terrier Dandie",
+      "genus": "Macho",
+      "category": "Cachorro",
       "location": {
         "coordinates": [
           -12.7810853,
