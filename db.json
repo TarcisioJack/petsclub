@@ -232,6 +232,23 @@
         ],
         "_id": 13,
         "type": "Point"
+      },
+      {
+      "id": 14,
+      "nameGuardian": "Aniel Queiroz",
+      "twitter": "aniel",
+      "namePet": "Pitucha",
+      "photo": "https://images.dog.ceo/breeds/terrier-dandie/n02096437_4276.jpg",
+      "race": "Terrier Dandie",
+      "genus": "Macho",
+      "category": "Cachorro",
+      "location": {
+        "coordinates": [
+          -12.924759,
+          -38.320374
+        ],
+        "_id": 14,
+        "type": "Point"
       }
     }
   ]
