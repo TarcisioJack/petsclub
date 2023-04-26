@@ -232,14 +232,15 @@
         ],
         "_id": 13,
         "type": "Point"
-      },
-      {
+      }
+    },
+    {
       "id": 14,
-      "nameGuardian": "Aniel Queiroz",
-      "twitter": "aniel",
+      "nameGuardian": "Albert Einstein",
+      "twitter": "AlbertEinstein",
       "namePet": "Pitucha",
-      "photo": "https://images.dog.ceo/breeds/terrier-dandie/n02096437_4276.jpg",
-      "race": "Terrier Dandie",
+      "photo": "https://images.dog.ceo/breeds/affenpinscher/n02110627_2911.jpg",
+      "race": "Affenpinscher",
       "genus": "Macho",
       "category": "Cachorro",
       "location": {
@@ -248,6 +249,24 @@
           -38.320374
         ],
         "_id": 14,
+        "type": "Point"
+      }
+    },
+    {
+      "id": 15,
+      "nameGuardian": "Leonardo DiCaprio",
+      "twitter": "lisadepijamas",
+      "namePet": "Monalisa",
+      "photo": "https://images.dog.ceo/breeds/malamute/n02110063_2481.jpg",
+      "race": "Malamute",
+      "genus": "Macho",
+      "category": "Cachorro",
+      "location": {
+        "coordinates": [
+          -12.920512,
+          -38.355630
+        ],
+        "_id": 15,
         "type": "Point"
       }
     }
